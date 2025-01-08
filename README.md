@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <tr>
     <td style="width: 50%; text-align: left; vertical-align: top;">
       <div style="display: flex; flex-direction: column; height: auto; width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&hide=contribs&show_icons=true&theme=buefy" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo"/>
       </div>
     </td>
