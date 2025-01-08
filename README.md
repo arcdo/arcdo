@@ -45,3 +45,18 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td style="width: 50%; text-align: left;">
+      <div align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" alt="Stats" style="width: 100%; height: auto; max-width: 400px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" style="width: 100%; height: auto; max-width: 400px;" />
+      </div>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcdo&bg_color=ffffff00&line=006400" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
