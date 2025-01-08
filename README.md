@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td style="width: 50%; text-align: left; vertical-align: top;">
+    <td style="width: 30%; text-align: left; vertical-align: top;">
       <div style="display: flex; flex-direction: column; height: 400px; width: 100%;">
         <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" alt="Stats" style="flex: 60%; width: 100%; height: auto;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&theme=transparent" alt="Top Languages" style="flex: 40%; width: 100%; height: auto;" />
       </div>
     </td>
-    <td style="width: 50%;">
+    <td style="width: 70%;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcdo&bg_color=ffffff00&line=006400" alt="Activity Graph" style="width: 100%; height: auto;" />
     </td>
   </tr>
