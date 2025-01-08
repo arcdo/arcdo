@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td style="width: 50%; text-align: left; vertical-align: top;">
-      <div style="display: flex; flex-direction: column; height: auto; width: 100%;">
+      <div style="display: flex; flex-direction: column; height: auto; width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&hide=contribs&show_icons=true&theme=buefy" style="width: 100%;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&layout=compact&theme=buefy" style="width: 100%;" />
       </div>
