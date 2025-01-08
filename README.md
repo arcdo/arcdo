@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/arcdo/arcdo/refs/heads/output/github-contribution-grid-snake.svg)
 
-
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arcdo" /> </div>
-
-<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
-
-
-
 <table>
   <tr>
     <td style="width: 50%; text-align: left;">
@@ -40,4 +32,12 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arcdo" /> </div>
+
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+
+
+
+
 
