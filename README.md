@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td style="width: 50%; text-align: left;">
-      <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" alt="Stats" style="width: 100%; height: auto; max-width: 400px;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" style="width: 100%; height: auto; max-width: 400px;" />
+    <td style="width: 50%; text-align: left; vertical-align: top;">
+      <div style="display: flex; flex-direction: column; height: 400px; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" alt="Stats" style="flex: 60%; width: 100%; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" style="flex: 40%; width: 100%; height: auto;" />
       </div>
     </td>
     <td style="width: 50%;">
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arcdo" /> </div>
 
