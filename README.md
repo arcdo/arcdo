@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/arcdo/arcdo/refs/heads/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=arcdo&hide_title=true&hide_border=false&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=transparent&border_color=000&theme=graywhite" />
-</div>
-
 ![](https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent)
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
