@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <tr>
     <td style="width: 50%; text-align: left; vertical-align: top;">
       <div style="display: flex; flex-direction: column; height: auto; width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" alt="Stats" style="flex: 60%; width: 100%; max-height: 150px; object-fit: contain;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&theme=transparent" alt="Top Languages" style="flex: 40%; width: 100%; max-height: 100px; object-fit: contain;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" alt="Stats" style="flex: 60%; width: 60%; max-height: 150px; object-fit: contain;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&theme=transparent" alt="Top Languages" style="flex: 40%; width: 40%; max-height: 100px; object-fit: contain;" />
       </div>
     </td>
     <td style="width: 50%;">
