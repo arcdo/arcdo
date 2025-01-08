@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td style="width: 50%; text-align: left; vertical-align: top;">
-      <div style="display: flex; flex-direction: column; height: auto; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&hide=contribs&show_icons=true&theme=buefy" style="width: 100%;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&layout=compact&theme=buefy" style="width: 100%;" />
-      </div>
+  <td style="width: 50%; text-align: left; vertical-align: top;">
+    <div style="display: flex; flex-direction: column; height: auto; width: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&hide=contribs&show_icons=true&theme=buefy" style="width: 100%; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&layout=compact&theme=buefy" style="width: 100%; height: auto;" />
+    </div>
+  </td>
+  <td style="width: 50%; text-align: center;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcdo&bg_color=ffffff00&line=006400" alt="Activity Graph" style="width: 100%; height: auto;" />
+  </td>
+</tr>
 
-    </td>
-    <td style="width: 50%;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcdo&bg_color=ffffff00&line=006400" alt="Activity Graph" style="width: 150%; height: auto;" />
-    </td>
-  </tr>
   <tr>
     <td colspan="2" style="text-align: center;">
       <img src="https://raw.githubusercontent.com/arcdo/arcdo/refs/heads/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="width: 100%; height: auto;" />
