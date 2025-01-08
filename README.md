@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/arcdo/arcdo/refs/heads/output/github-contribution-grid-snake.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arcdo&bg_color=ffffff00&line=00FF00" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arcdo&bg_color=ffffff00&line=006400" alt="Activity Graph" />
 
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
