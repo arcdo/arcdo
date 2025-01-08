@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td style="width: 50%; text-align: left; vertical-align: top;">
-      <div style="display: flex; flex-direction: column; height: 90px; width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" alt="Stats" style="flex: 60%; width: 100%; height: auto;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&theme=transparent" alt="Top Languages" style="flex: 40%; width: 100%; height: auto;" />
+      <div style="display: flex; flex-direction: column; height: auto; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent" alt="Stats" style="flex: 60%; width: 100%; height: 70%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&theme=transparent" alt="Top Languages" style="flex: 40%; width: 100%; height: 30%;" />
       </div>
     </td>
     <td style="width: 50%;">
