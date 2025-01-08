@@ -1,10 +1,10 @@
 ## Hi there 👋  **This is *Arcdo***
-
+----
 - 🔭 I’m currently working on data algorithms.
 - 🌱 I’m currently learning nlp and Japanese.
 - 💬 Feel free to ask me anything about data analysis, algorithms, and machine learning.
 - ⚡ Fun fact: Octopuses have 8 brains.
-
+----
 
 <table>
   <tr>
