@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent)
 
 
+| 统计图表 | 活动图表 |
+| -------- | -------- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=arcdo&count_private=true&show_icons=true&theme=transparent) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arcdo&bg_color=ffffff00&line=006400) |
 
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcdo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
