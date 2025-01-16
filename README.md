@@ -26,7 +26,7 @@
     </td>
   </tr>
 </table>
-
+----
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arcdo" /> </div>
 
 <span>
