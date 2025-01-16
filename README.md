@@ -17,7 +17,7 @@
     </div>
   </td>
   <td style="width: 50%; text-align: center;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcdo&days=15&bg_color=ffffff00&line=006400" alt="Activity Graph" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcdo&days=14&bg_color=ffffff00&line=006400" alt="Activity Graph" style="width: 100%; height: auto;" />
   </td>
 </tr>
   <tr>
