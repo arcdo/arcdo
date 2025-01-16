@@ -28,7 +28,7 @@
 </table>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arcdo" /> </div>
-
+----
 <span>
   
   <img src="https://img.shields.io/badge/-Python-7957d5?style=flat-square&logo=python&logoColor=white" />
