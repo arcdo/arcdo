@@ -1,4 +1,4 @@
-## Hi there 👋  **This is *Arcdo***
+## Hi there 👋  **This is *Aric***
 
 ### About me
 
