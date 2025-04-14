@@ -32,7 +32,7 @@
 <span>
   
   <img src="https://img.shields.io/badge/-Python-7957d5?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-7957d5?style=flat-square&logo=rust&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/-Rust-7957d5?style=flat-square&logo=rust&logoColor=white" />-->
   <img src="https://img.shields.io/badge/-HTML5-7957d5?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-7957d5?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-7957d5?style=flat-square&logo=javascript&logoColor=white" />
