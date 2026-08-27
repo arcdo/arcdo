@@ -3,8 +3,8 @@
 ### About me
 
 - 🔭 I’m a Data algorithms engineer.
-- 🌱 I’m currently learning nlp and Japanese.
-- 💬 Feel free to ask me anything about data analysis, algorithms, and machine learning.
+- 🌱 I’m currently learning Japanese.
+- 💬 Feel free to ask me anything about data analysis, algorithms, ai and machine learning.
 - ⚡ Fun fact: Octopuses have eight brains.
 ---
 
